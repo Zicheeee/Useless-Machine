@@ -1,5 +1,4 @@
-# Useless-Machine
-My Useless Machine 
+# Useless-Machine 
 
 Youtube Video:
 
@@ -8,7 +7,7 @@ Youtube Video:
 Thingiverse:
 https://www.thingiverse.com/thing:4728768
 
-Compontents:
+## Compontents:
 * ESP32: https://www.amazon.co.uk/AZDelivery-NodeMcu-CP2102-Development-including/dp/B074RGW2VQ
 
 * Dupont Cables: https://www.amazon.co.uk/Elegoo-120pcs-Multicolored-Breadboard-arduino-colorful/dp/B01EV70C78/
@@ -22,13 +21,13 @@ Compontents:
 * Micro USB Cable: https://www.amazon.co.uk/Aioneus-Android-Charger-Charging-Braided-White/dp/B08CMX47JN
 
 
-Tools:
+## Tools:
 * MISC Screws, M2.5 x 0.45 or M3 x 0.5 (probably)
 * Super Glue
 * Soldering Iron (Could maybe get around soldering buy getting some crocodile clips?)
 
 
-How To:
+## How To:
 * Step 1: Print all of the key parts on the Thingiverse page. (Body, Top, Lid, Arm, One of the arm heads)
 
 * Step 2: Solder a Male to Female Dupont cable to a 1k resistor.
