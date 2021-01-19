@@ -25,7 +25,7 @@ Compontents:
 Tools:
 * MISC Screws, M2.5 x 0.45 or M3 x 0.5 (probably)
 * Super Glue
-
+* Soldering Iron (Could maybe get around soldering buy getting some crocodile clips?)
 
 
 How To:
