@@ -24,7 +24,7 @@ https://www.thingiverse.com/thing:4728768
 ## Tools:
 * MISC Screws, M2.5 x 0.45 or M3 x 0.5 (probably)
 * Super Glue
-* Soldering Iron (Could maybe get around soldering buy getting some crocodile clips?)
+* Soldering Iron (Could maybe get around soldering by getting some crocodile clips?)
 
 
 ## How To:
