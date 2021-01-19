@@ -20,9 +20,12 @@ Toggle Switch: https://www.amazon.co.uk/Aussel-Position-Toggle-Switch-Arduino/dp
 
 Micro USB Cable: https://www.amazon.co.uk/Aioneus-Android-Charger-Charging-Braided-White/dp/B08CMX47JN
 
+
 Tools:
 MISC Screws, M2.5 x 0.45 or M3 x 0.5 (probably)
 Super Glue
+
+
 
 How To:
 Step 1: Print all of the key parts on the thingiverse page. (Body, Top, Lid, Arm, One of the arm heads)
