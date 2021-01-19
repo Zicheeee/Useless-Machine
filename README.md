@@ -2,7 +2,8 @@
 My Useless Machine 
 
 Youtube Video:
-https://youtu.be/JTmxeeUtsnk
+
+[![YouTube Useless Machine](https://img.youtube.com/vi/JTmxeeUtsnk/0.jpg)](https://www.youtube.com/watch?v=JTmxeeUtsnk)
 
 Thingiverse:
 https://www.thingiverse.com/thing:4728768
@@ -28,7 +29,7 @@ Tools:
 
 
 How To:
-* Step 1: Print all of the key parts on the thingiverse page. (Body, Top, Lid, Arm, One of the arm heads)
+* Step 1: Print all of the key parts on the Thingiverse page. (Body, Top, Lid, Arm, One of the arm heads)
 
 * Step 2: Solder a Male to Female Dupont cable to a 1k resistor.
 
@@ -42,7 +43,7 @@ How To:
 
 * Step 7: Make sure the servo is in the right orientation by powering on the ESP or Arduino and flicking the switch, make sure the servo is in the off position when the switch is off.
 
-* Step 8: Screw the MG90S into the slot.
+* Step 8: Screw the MG90S into the slot using the provided screws.
 
 * Step 9: Apply Super Glue to the inside of the arm and install the arm onto the MG90S servo, making sure the arm is in the right orientation.
 
